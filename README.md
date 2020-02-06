@@ -17,7 +17,7 @@ Iniciando a Jornada.
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
 * **Data Science: Investigando o Titanic:** https://bit.ly/2Ubr5SHd
 
