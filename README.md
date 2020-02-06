@@ -11,6 +11,9 @@ Iniciando a Jornada.
 
 **Background in:** Python, Machine Learning.
 
+**Cursos:**
+* Data Science para todos - 32h (https://databootcamp.com.br/courses/1)
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/davi-frazao-barbosa)
 * [Medium](https://www.medium.com)
