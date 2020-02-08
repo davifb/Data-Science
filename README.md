@@ -9,14 +9,14 @@
 
 Iniciando a Jornada.
 
-**Background in:** Python, Machine Learning.
+**Interesses:** Python, Machine Learning.
 
 **Cursos:**
 * [Databootcamp](https://databootcamp.com.br/courses/1) - Data Science Para Todos (32h)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/davi-frazao-barbosa)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@davi.roma)
 
 
 ## Projetos:
